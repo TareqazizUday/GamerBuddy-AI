@@ -15,16 +15,29 @@ Win together, strategize smarter, and connect seamlessly with GamerBuddy AI – 
   Upload pre-recorded voice commands and convert them to the target language.
 
 - **Multilingual Support**:
-  Supports popular gaming languages, including:
-  - Bengali
-  - English
-  - Spanish
-  - German
-  - Arabic
-  - Hindi
-  - Japanese
-  - Korean
-  - Portuguese
+  Supports popular gaming languages, including: 
+  - Bengali  
+  - English  
+  - Spanish  
+  - German  
+  - Arabic  
+  - Hindi  
+  - Japanese  
+  - Korean  
+  - Portuguese  
+  - Afrikaans  
+  - Amharic  
+  - Moroccan Arabic  
+  - Egyptian Arabic  
+  - Assamese  
+  - Azerbaijani  
+  - Belarusian  
+  - Bosnian  
+  - Bulgarian  
+  - Catalan  
+  - Cebuano  
+
+- **Note**: Additional languages can also be added from the full list provided above.
 
 - **Downloadable Translations**:
   Save translated voice chats directly to your device for later use.
@@ -116,15 +129,28 @@ GamerBuddy AI/
 
 ## 🌍 Supported Languages
 
-- Bengali (`ben`)
-- English (`eng`)
-- Spanish (`es`)
-- German (`deu`)
-- Arabic (`arb`)
-- Hindi (`hin`)
-- Japanese (`jpn`)
-- Korean (`kor`)
-- Portuguese (`por`)
+- Bengali (`ben`)  
+- English (`eng`)  
+- Spanish (`es`)  
+- German (`deu`)  
+- Arabic (`arb`)  
+- Hindi (`hin`)  
+- Japanese (`jpn`)  
+- Korean (`kor`)  
+- Portuguese (`por`)  
+- French (`fra`)  
+- Italian (`ita`)  
+- Russian (`rus`)  
+- Chinese (Simplified) (`cmn`)  
+- Chinese (Traditional) (`cmn_Hant`)  
+- Tamil (`tam`)  
+- Telugu (`tel`)  
+- Turkish (`tur`)  
+- Ukrainian (`ukr`)  
+- Vietnamese (`vie`)  
+- Dutch (`nld`)  
+
+Let me know if you'd like to include even more languages!
 
 ---
 
