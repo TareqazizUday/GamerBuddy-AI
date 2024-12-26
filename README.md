@@ -1,6 +1,8 @@
 # 🎮 GamerBuddy AI - Your Gaming Language Ally
 
-**GamerBuddy AI** is your ultimate gaming companion that eliminates language barriers and enhances communication between gamers worldwide. Whether you're planning strategies with your squad or giving live instructions in a heated multiplayer match, GamerBuddy AI ensures your voice is heard and understood in any language. 
+**GamerBuddy AI** is your ultimate gaming companion that eliminates language barriers and enhances communication between gamers worldwide. Whether you're planning strategies with your squad or giving live instructions in a heated multiplayer match, GamerBuddy AI ensures your voice is heard and understood in any language.
+
+![GamebuddyAI](https://github.com/user-attachments/assets/350d8300-2f12-4cc4-8b98-3ed7299ebd83)
 
 Win together, strategize smarter, and connect seamlessly with GamerBuddy AI – the tool every gamer needs for the ultimate multiplayer experience.
 
@@ -69,7 +71,7 @@ Win together, strategize smarter, and connect seamlessly with GamerBuddy AI – 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/gamerbuddy-ai.git
+   git clone https://github.com/TareqazizUday/GamerBuddy-AI.git
    cd gamerbuddy-ai
    ```
 
@@ -159,6 +161,12 @@ Let me know if you'd like to include even more languages!
 - Add more languages for wider support.
 - Integrate text-to-speech functionality for quick in-game text commands.
 - Support for real-time, continuous translation during live streams.
+
+---
+
+Example Input And Outputs
+
+![gmaebuddyaioutput](https://github.com/user-attachments/assets/b9d138ad-e5d0-4ff9-9610-e6df6402bce1)
 
 ---
 
